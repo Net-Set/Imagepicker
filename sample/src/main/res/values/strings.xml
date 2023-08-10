@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image Picker</string>
+    <string name="action_github">Location</string>
+
+    <string name="action_camera_only">Camera Only</string>
+    <string name="action_gallery_only">Gallery Only</string>
+    <string name="notification_channel_id">location_service_channel</string>
+    <string name="notification_channel_name">Location Service Channel</string>
+</resources>
